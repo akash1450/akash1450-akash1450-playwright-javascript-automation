@@ -12,6 +12,8 @@ export class LoginPage
         this.usernameInput      =       this.page.locator("#user-name")
         this.passwordInput      =       this.page.locator("#password")
         this.loginButton        =       this.page.locator("#login-button")            
+        
+        this.error_msg          =       this.page.locator("h3")
 
     }
 
@@ -25,8 +27,8 @@ export class LoginPage
     async login (username, password)
     {
 
-        await this.usernameInput.fill(saucedemo_logindata.username)
-        await this.passwordInput.fill(saucedemo_logindata.password)
+        await this.usernameInput.fill(username)
+        await this.passwordInput.fill(password)
         await this.loginButton.click()
 
     }
@@ -35,6 +37,13 @@ export class LoginPage
     {
 
         await expect(this.page).toHaveTitle("Swag Labs")
+
+    }
+
+    async getErrormessage ()
+    {
+
+        await expect(this.error_msg).toContainText('Epic sadface: Username and password do not match any user in this service')
 
     }
 
