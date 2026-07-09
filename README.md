@@ -244,7 +244,7 @@ npx playwright show-report
 
 The application correctly displays an error message when invalid credentials are entered.
 
-![Invalid Login Error](invalid-login.png)
+![Invalid Login Error](docs/task-002/invalid-login.png)
 
 ---
 
@@ -252,7 +252,7 @@ The application correctly displays an error message when invalid credentials are
 
 The Playwright HTML Report confirms successful execution of the test.
 
-![Playwright HTML Report](playwright-report.png)
+![Playwright HTML Report](docs/task-002/playwright-report.png)
 
 ---
 
