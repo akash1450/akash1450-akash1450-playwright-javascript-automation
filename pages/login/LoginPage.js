@@ -15,6 +15,7 @@ export class LoginPage
         
         this.error_msg          =       this.page.locator("h3")
 
+
     }
 
     async gotoSauceDemo ()
@@ -44,6 +45,13 @@ export class LoginPage
     {
 
         await expect(this.error_msg).toContainText('Epic sadface: Username and password do not match any user in this service')
+
+    }
+
+    async verifyhometitle ()
+    {
+
+        await expect(this.page).toHaveTitle("Swag Labs")
 
     }
 
