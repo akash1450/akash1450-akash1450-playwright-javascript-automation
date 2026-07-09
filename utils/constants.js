@@ -1,0 +1,1 @@
+export const SAUCEDEMO_URL        ="https://www.saucedemo.com/"
