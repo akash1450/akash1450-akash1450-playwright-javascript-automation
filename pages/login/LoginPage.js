@@ -55,6 +55,13 @@ export class LoginPage
 
     }
 
+    async verifyHomeUrl ()
+    {
+
+        await expect(this.page).toHaveURL("https://www.saucedemo.com/inventory.html")
+
+    }
+
     
 
 
