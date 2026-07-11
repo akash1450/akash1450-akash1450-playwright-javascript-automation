@@ -240,13 +240,13 @@ npx playwright show-report
 
 ## Text Box Submission
 
-![Text Box Submission](screenshots/textbox-submission.png)
+![Text Box Submission](textbox-submission.png)
 
 ---
 
 ## Playwright HTML Report
 
-![Playwright HTML Report](screenshots/playwright-report.png)
+![Playwright HTML Report](playwright-report.png)
 
 ---
 
