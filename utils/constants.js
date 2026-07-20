@@ -1,9 +1,11 @@
-export const SAUCEDEMO_URL      =       "https://www.saucedemo.com/"
+export const SAUCEDEMO_URL              =       "https://www.saucedemo.com/"
 
-export const RADIO_URL          =       "https://demoqa.com/radio-button"   
+export const RADIO_URL                  =       "https://demoqa.com/radio-button"   
 
-export const DEMOQA             =       "https://demoqa.com/text-box"
+export const DEMOQA                     =       "https://demoqa.com/text-box"
 
-export const DROPDOWN_URL       =       "https://the-internet.herokuapp.com/dropdown"
+export const DROPDOWN_URL               =       "https://the-internet.herokuapp.com/dropdown"
 
-export const BUTTON_URL         =       "https://demoqa.com/buttons"
+export const BUTTON_URL                 =       "https://demoqa.com/buttons"
+
+export const DYNAMIC_CONTENT_URL        =       "https://the-internet.herokuapp.com/dynamic_content"
