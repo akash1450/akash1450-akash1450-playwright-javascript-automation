@@ -13,3 +13,5 @@ export const DYNAMIC_CONTENT_URL        =       "https://the-internet.herokuapp.
 export const IMAGE_URL                  =       "https://automationexercise.com/"
 
 export const JS_ALERT_URL               =       "https://the-internet.herokuapp.com/javascript_alerts"
+
+export const FILE_UPLOAD_URL            =       "https://the-internet.herokuapp.com/upload"

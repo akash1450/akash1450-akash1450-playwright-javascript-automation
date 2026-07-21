@@ -6,6 +6,8 @@
 
     "promptText"        :       "Akash",
 
-    "promptMessage"     :       "You entered: Akash"
+    "promptMessage"     :       "You entered: Akash",
+
+    "file" : "sample.txt"
 
 }

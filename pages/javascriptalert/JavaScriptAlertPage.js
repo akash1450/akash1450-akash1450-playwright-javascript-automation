@@ -70,7 +70,7 @@ export class JavaScriptAlertPage extends BasePage
         this.page.once("dialog" , async(dialog)=>
         {
 
-            await dialog.accept(javascript_alert_data.promptText)
+            await dailog.accept(javascript_alert_data.promptText)
 
         })
 
