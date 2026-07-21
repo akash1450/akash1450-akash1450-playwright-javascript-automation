@@ -11,3 +11,5 @@ export const BUTTON_URL                 =       "https://demoqa.com/buttons"
 export const DYNAMIC_CONTENT_URL        =       "https://the-internet.herokuapp.com/dynamic_content"
 
 export const IMAGE_URL                  =       "https://automationexercise.com/"
+
+export const JS_ALERT_URL               =       "https://the-internet.herokuapp.com/javascript_alerts"

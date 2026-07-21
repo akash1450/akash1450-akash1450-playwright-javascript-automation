@@ -1,0 +1,11 @@
+{
+
+    "alertMessage"      :       "You successfully clicked an alert",
+
+    "confirmMessage"    :       "You clicked: Ok",
+
+    "promptText"        :       "Akash",
+
+    "promptMessage"     :       "You entered: Akash"
+
+}
