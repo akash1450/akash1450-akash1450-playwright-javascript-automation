@@ -16,4 +16,5 @@
 | ✅ Task-10 | Completed | [View](docs/task-010/README.md) |
 | ✅ Task-11 | Completed | [View](docs/task-011/README.md) |
 | ✅ Task-12 | Completed | [View](docs/task-012/README.md) |
-| ⏳ Task-13 | In Progress | Coming Soon |
+| ✅ Task-13 | Completed | [View](docs/task-013/README.md) |
+| ⏳ Task-14 | In Progress | Coming Soon |
